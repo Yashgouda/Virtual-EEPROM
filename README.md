@@ -1,1 +1,2 @@
 # Virtual-EEPROM
+This project implements a Virtual EEPROM simulation using Standard C File I/O functions. It allows users to perform read, write, and verify operations on a simulated EEPROM memory stored in a binary file. The program mimics real EEPROM behavior with proper address validation and fixed memory size handling (e.g., 128 bytes), helping in understanding memory management concepts used in embedded systems.
